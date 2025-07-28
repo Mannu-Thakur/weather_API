@@ -1,18 +1,19 @@
-# ☁️ weather_API
+# 🌤️ Weather App
 
-A sleek and reliable **Weather Web App** that utilizes live **Weather & Geolocation APIs** to provide **real-time**, **forecast**, and **historical weather** data for millions of locations worldwide.
+A sleek and user-friendly weather web app that fetches and displays real-time weather information using the **OpenWeatherMap API**.  
+Built using modern JavaScript features and responsive design principles.
 
-🔗 **Live Demo:** [https://animated-licorice-b4a001.netlify.app](https://animated-licorice-b4a001.netlify.app)
+🔗 **Live Demo:** [View Website](https://animated-licorice-b4a001.netlify.app/)
 
 ---
 
-## 🌦️ Features
+## 🔥 Features
 
 - 📍 Fetch weather using **geolocation** or **manual city input**
-- 📊 Displays current temperature, humidity, wind speed, and weather conditions
-- 🌍 Supports global cities and locations
-- ⚡ Powered by modern asynchronous JavaScript (fetch + async/await)
-- 🎨 Clean, responsive UI using HTML, CSS & JavaScript
+- 🌡️ Displays current **temperature**, **humidity**, **wind speed**, and **weather conditions**
+- 🌍 Supports **global cities and locations**
+- ⚡ Powered by modern **asynchronous JavaScript** (`fetch` + `async/await`)
+- 🎨 Clean, **responsive UI** using **HTML**, **CSS**, and **JavaScript**
 
 ---
 
@@ -25,11 +26,5 @@ A sleek and reliable **Weather Web App** that utilizes live **Weather & Geolocat
 
 ---
 
-## 📂 Folder Structure
-📁 weather_API/
-├── index.html         # Main HTML file (UI layout)
-├── style.css          # Styling and responsive design
-├── weather.js         # JavaScript logic (API calls, data display)
-├── README.md          # Project overview and instructions
-└── LICENSE            # MIT License (if added)
+## 📁 Folder Structure
 
