@@ -28,3 +28,16 @@ Built using modern JavaScript features and responsive design principles.
 
 ## 📁 Folder Structure
 
+---
+
+## 📝 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+## 🙌 Author
+
+Made with 💙 by **Mannu Kumar Thakur**  
+Feel free to ⭐️ star, 🍴 fork, and contribute to this project!
+
